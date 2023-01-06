@@ -1,0 +1,13 @@
+PROJECT PLAN:
+
+Create the project(done)
+Clean up the startup file(done)
+style the container
+labels
+Genrate a service
+inject http client
+get the weather data
+add params
+Subscribe method
+humidity
+search function
